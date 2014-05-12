@@ -40,9 +40,9 @@ public class Coche {
     {
         color=m;    
     }
-    public void setMatricula(String m)
+    public void setMatricula(String mat)
     {
-        matricula=m;    
+        matricula=mat;    
     }
     
 }
